@@ -14,7 +14,7 @@ With this application Fructus, I studied and learned the following topics;
 - Understand how the new App Life Cycle works in SwiftUI 2.0,
 - Learn how to use the new Link View in SwiftUI 2.0,
 - Learn how to use the new Goup Box View in SwiftUI 2.0,
-Learn how to use the new Disclosure View in SwiftUI 2.0 and more…
+- Learn how to use the new Disclosure View in SwiftUI 2.0 and more…
 
 
 ![Fructus App](https://github.com/mehmetalickr/fructus-app/blob/master/App%20Images/fructus-image.jpg)
